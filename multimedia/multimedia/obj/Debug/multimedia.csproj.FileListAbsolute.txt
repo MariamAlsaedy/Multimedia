@@ -1,0 +1,117 @@
+F:\alaa2\multimedia\multimedia\bin\Debug\multimedia.exe.config
+F:\alaa2\multimedia\multimedia\bin\Debug\multimedia.exe
+F:\alaa2\multimedia\multimedia\bin\Debug\multimedia.pdb
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.exe
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.pdb
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+F:\alaa2\multimedia\multimedia\obj\Debug\multimedia.table.resources
+G:\maltimedia project\multimedia\multimedia\bin\Debug\multimedia.exe.config
+G:\maltimedia project\multimedia\multimedia\bin\Debug\multimedia.exe
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.table.resources
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.exe
+G:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.pdb
+C:\Users\SAEDY\Desktop\multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\SAEDY\Desktop\multimedia\multimedia\bin\Debug\multimedia.exe
+C:\Users\SAEDY\Desktop\multimedia\multimedia\bin\Debug\multimedia.pdb
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.table.resources
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\SAEDY\Desktop\multimedia\multimedia\obj\Debug\multimedia.pdb
+D:\multimedia\multimedia\bin\Debug\multimedia.exe.config
+D:\multimedia\multimedia\bin\Debug\multimedia.exe
+D:\multimedia\multimedia\bin\Debug\multimedia.pdb
+D:\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+D:\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+D:\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.table.resources
+D:\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+D:\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+D:\multimedia\multimedia\obj\Debug\multimedia.exe
+D:\multimedia\multimedia\obj\Debug\multimedia.pdb
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\bin\Debug\multimedia.exe
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\bin\Debug\multimedia.pdb
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.table.resources
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\AhmadKhabeer\Desktop\multimedia\multimedia\obj\Debug\multimedia.pdb
+D:\maltimedia project\multimedia\multimedia\bin\Debug\multimedia.exe.config
+D:\maltimedia project\multimedia\multimedia\bin\Debug\multimedia.exe
+D:\maltimedia project\multimedia\multimedia\bin\Debug\multimedia.pdb
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.table.resources
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.exe
+D:\maltimedia project\multimedia\multimedia\obj\Debug\multimedia.pdb
+F:\multimedia\multimedia\obj\Debug\multimedia.csproj.AssemblyReference.cache
+F:\multimedia\multimedia\obj\Debug\multimedia.csproj.SuggestedBindingRedirects.cache
+F:\multimedia\multimedia\obj\Debug\multimedia.FAdaptiveHuffman.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.FHuffman.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.FLZW.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.intro.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.FRLC.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.FShannon.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.table.resources
+F:\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+F:\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+F:\multimedia\multimedia\obj\Debug\multimedia.exe
+F:\multimedia\multimedia\obj\Debug\multimedia.pdb
+F:\multimedia\multimedia\bin\Debug\multimedia.exe.config
+F:\multimedia\multimedia\bin\Debug\multimedia.exe
+F:\multimedia\multimedia\bin\Debug\multimedia.pdb
